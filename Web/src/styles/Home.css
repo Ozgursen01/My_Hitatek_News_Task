@@ -1,0 +1,12 @@
+.pageTitle {
+    text-align: center;
+  }
+  .slider {
+    text-align: center; 
+  }
+  
+  .slider img {
+    display: inline-block; 
+    max-width: 100%;
+    height: auto; 
+  }

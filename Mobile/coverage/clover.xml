@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1694042982575" clover="3.2.0">
+  <project timestamp="1694042982575" name="All files">
+    <metrics statements="12" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3" elements="16" coveredelements="12" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
+    <file name="actions.js" path="/home/eylem/apps/MyNews/src/redux/actions.js">
+      <metrics statements="12" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
